@@ -1,0 +1,16 @@
+.autumn{
+    height: 100vh;
+    background: -webkit-linear-gradient(180deg, rgb(251, 255, 0), rgb(255, 0, 0), rgb(247, 120, 0));
+background: -moz-linear-gradient(180deg, rgb(251, 255, 0), rgb(255, 0, 0), rgb(247, 120, 0));
+background: linear-gradient(180deg, rgb(251, 255, 0), rgb(255, 0, 0), rgb(247, 120, 0));
+
+}
+.d-block{
+    opacity: 0.5;
+}
+.carousel {
+    top: 1%;
+    width: 70%;
+    left: 15%;
+    height: auto;
+}
