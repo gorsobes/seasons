@@ -88,9 +88,7 @@ height: 100vh;
   height: 100vh;
   background-color: #eb4747;
 }
-/*
-* text
-*/
+
 .text {
   position: absolute;
   width: 40px;
@@ -1776,9 +1774,7 @@ height: 100vh;
     opacity: 0;
   }
 }
-/*
-* frame
-*/
+
 .frame {
   position: absolute;
   width: 40px;
@@ -2308,9 +2304,7 @@ height: 100vh;
     opacity: 0;
   }
 }
-/*
-* particle
-*/
+
 .particle {
   position: absolute;
   width: 40px;
